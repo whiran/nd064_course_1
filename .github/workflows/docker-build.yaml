@@ -45,4 +45,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: whiran/go-helloworld/python-helloworld:v2.0.0
+          tags: whiran/go-helloworld:v1.0.0
